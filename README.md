@@ -6,6 +6,13 @@
 
 3. [![Screenshot](https://github.com/user-attachments/assets/91e07927-8da2-4575-b150-a9f042018374)](https://github.com/user-attachments/assets/91e07927-8da2-4575-b150-a9f042018374)
 
+# DYNAMIC UI ATTENDANCE UPDATION
+ 1. [![Screenshot](https://github.com/user-attachments/assets/b801c4ed-8786-4378-919d-80c6b34ce902)](https://github.com/user-attachments/assets/b801c4ed-8786-4378-919d-80c6b34ce902)
+    
+ 2.  [![Screenshot](https://github.com/user-attachments/assets/bc192919-5979-41dc-89e5-540eef9ffd17)](https://github.com/user-attachments/assets/bc192919-5979-41dc-89e5-540eef9ffd17)
+     
+ 3. [![Screenshot](https://github.com/user-attachments/assets/a5035fa0-2d32-49d8-966f-eda5c5ec822a)](https://github.com/user-attachments/assets/a5035fa0-2d32-49d8-966f-eda5c5ec822a)
+
 
 # PROJECT UI
 [![Screenshot](https://github.com/user-attachments/assets/d0e2878a-5fa3-44b7-bfb0-4fbc47c63145)
