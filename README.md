@@ -1,3 +1,4 @@
+# FULL STUDENT DETAIL , ATTENDANCE and CGPA CAN BE EDITED USING DYNAMIC UI
 # DYNAMIC UI CGPA UPDATION
  1. [![Screenshot](https://github.com/user-attachments/assets/9261d121-01ea-46a4-8dcb-6378acbaf462)](https://github.com/user-attachments/assets/9261d121-01ea-46a4-8dcb-6378acbaf462)
 
